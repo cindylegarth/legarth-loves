@@ -1,11 +1,15 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: LEGARTH LOVES
+tagline: Recommendations
+featuredImage: /assets/img_20200621_230243.jpg
 cta:
-  ctaText: Know more
-  ctaLink: /about
+  ctaText: Ambassador
+  ctaLink: /contact
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+<!--StartFragment-->
+
+# OPEN YOUR MIND
+
+1. <!--EndFragment-->

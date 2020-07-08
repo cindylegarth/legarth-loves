@@ -11,5 +11,3 @@ cta:
 <!--StartFragment-->
 
 # OPEN YOUR MIND
-
-1. <!--EndFragment-->
